@@ -15,14 +15,13 @@ MSc Cybersecurity · CompTIA Security+ · Dublin, Ireland
 
 ## DFIR report notes
 
-_Coming soon — weekly analyses of real intrusions from [The DFIR Report](https://thedfirreport.com/reports/): attack chain plus how a SOC would detect each stage._
+_Lives in its own repo (coming soon): weekly analyses of real intrusions from [The DFIR Report](https://thedfirreport.com/reports/), attack chain plus how a SOC would detect each stage._
 
 ---
 
 ## Repo structure
 
-- `labs/<lab-name>/` — one folder per lab: the `README.md` write-up plus an `images/` folder
-- `dfir-reports/<report-name>/` — DFIR report reading notes (same format)
+- `<lab-name>/` — one folder per lab: the `README.md` write-up plus an `images/` folder
 
 ## About
 
