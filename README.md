@@ -11,7 +11,7 @@ MSc Cybersecurity · CompTIA Security+ · Dublin, Ireland
 
 | Lab | Platform | Focus | MITRE ATT&CK |
 |---|---|---|---|
-| [GrabThePhisher](labs/grabthephisher/) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/) | Phishing-kit reverse engineering, Telegram exfiltration, IOC + actor attribution | T1566, T1567 |
+| [GrabThePhisher](grabthephisher/) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/) | Phishing-kit reverse engineering, Telegram exfiltration, IOC + actor attribution | T1566, T1567 |
 
 ## DFIR report notes
 
