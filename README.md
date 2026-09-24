@@ -1,9 +1,9 @@
 # Blue Team Write-Ups
 
-Hands-on SOC and blue-team lab write-ups by **Anshio Renin** — alert triage, phishing, malware and DFIR analysis, each mapped to MITRE ATT&CK.
+Hands-on SOC and blue-team lab write-ups by **Anshio Renin** - alert triage, phishing, malware and DFIR analysis, each mapped to MITRE ATT&CK.
 
-MSc Cybersecurity · CompTIA Security+ · Dublin, Ireland
-[Portfolio](https://anshio-renin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anshio-renin-ms/) · [GitHub](https://github.com/AnshioRenin)
+MSc Cybersecurity | CompTIA Security+ | Dublin, Ireland
+[Portfolio](https://anshio-renin.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/anshio-renin-ms/) | [GitHub](https://github.com/AnshioRenin)
 
 ---
 
@@ -21,7 +21,7 @@ _Lives in its own repo (coming soon): weekly analyses of real intrusions from [T
 
 ## Repo structure
 
-- `<lab-name>/` — one folder per lab: the `README.md` write-up plus an `images/` folder
+- `<lab-name>/` - one folder per lab: the `README.md` write-up plus an `images/` folder
 
 ## About
 

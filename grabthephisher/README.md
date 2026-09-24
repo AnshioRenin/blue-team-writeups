@@ -1,4 +1,4 @@
-# GrabThePhisher — Phishing Kit Analysis (CyberDefenders)
+# GrabThePhisher - Phishing Kit Analysis (CyberDefenders)
 
 **Category:** Threat Intel / Phishing Analysis
 **Platform:** [CyberDefenders - GrabThePhisher](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/) (Blue Team CTF, Threat Intel, difficulty: Easy)
@@ -25,7 +25,7 @@ ls
 
 The tree included the usual site assets (`index.html`, `background.jpg`, `logo.png`, `favicon.ico`) plus three folders that stood out: `metamask`, `log`, and `cgi-bin`. The `metamask` folder name immediately suggested the impersonated brand.
 
-![Kit directory listing — the metamask, log and cgi-bin folders stand out](images/01-kit-tree.png)
+![Kit directory listing - the metamask, log and cgi-bin folders stand out](images/01-kit-tree.png)
 
 ### 2. Confirm the impersonated wallet
 ```powershell
