@@ -13,11 +13,7 @@ MSc Cybersecurity | CompTIA Security+ | Dublin, Ireland
 |---|---|---|---|
 | [GrabThePhisher](grabthephisher/) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/) | Phishing-kit reverse engineering, Telegram exfiltration, IOC + actor attribution | T1566, T1567 |
 
-## DFIR report notes
 
-_Lives in its own repo (coming soon): weekly analyses of real intrusions from [The DFIR Report](https://thedfirreport.com/reports/), attack chain plus how a SOC would detect each stage._
-
----
 
 ## Repo structure
 
